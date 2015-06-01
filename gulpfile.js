@@ -24,8 +24,8 @@ gulp.task('template', function (){
 //--------------------------------
 gulp.task('font-awesome', function (){
     bower_to_lib({
-        'font-awesome/css/font-awesome.css': 'font-awesome/',
-        'font-awesome/css/font-awesome.css.map': 'font-awesome/',
+        'font-awesome/css/*': 'font-awesome/css/',
+        'font-awesome/fonts/*': 'font-awesome/fonts/',
     });
 });
 
