@@ -1,0 +1,15 @@
+{
+  "name": "tornado.tokyo",
+  "version": "0.0.0",
+  "authors": [
+    "TakesxiSximada <takesxi.sximada@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
